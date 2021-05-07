@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+}
+
+body {
+    background-color: dimgrey;
+    margin: 35px;
+}
+.dropdown-menu {
+    background-color: lightgrey;
+    font-style: inherit;
+}
+.dropdown {
+    float: right;
+}
+
+.row {
+    float: right;
+}
+.paragraph1 {
+    text-align: center;
+}
+#article {
+    color: white;
+}
+#fun, #funner {
+    font-style: italic;
+}
+.card {
+    background-color: dimgrey;
+}
+
+.row {
+    text-align: center;
+}
